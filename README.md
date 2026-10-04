@@ -1,6 +1,6 @@
 # Cybersports.live - Esports Live Tracker & Analytics
 
-Welcome to the official repository page for **[[Cybersports.live](https://cybersports.live/)](https://cybersports.live/en/)**.
+Welcome to the official repository page for **[[Cybersports.live](https://cybersports.live/)]**.
 
 ## Overview
 
